@@ -1,2 +1,2 @@
 # React-JS-study
-My complete turtorials by NetNinja
+My complete turtorials by CodeVolution
